@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "High School Utah Entrepreneur Challenge"
+  organization_url = "https://lassonde.utah.edu/hsuec/"
+  title = "Rising Star Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2017-01-01"
   date_end = ""
-  description = ""
+  description = "For our work on an innovative hammock design, my partner and I received a cash prize and recognition"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "High School Utah Entrepreneur Challenge"
+  organization_url = "https://lassonde.utah.edu/hsuec/"
+  title = "Lassonde Studios Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-01-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Awarded $1000 housing scholarship to Lassonde Studios at the U of U as a winner of the High School Utah Entrepreneur Challenge"
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "District Science Fair Winner"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = ""
+  description = "For a project involving semi-autonomous, coordinated swarm-bots"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "CollegeBoard"
+  organization_url = "https://www.collegeboard.org/"
+  title = "AP Scholar Award"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2019-07-05"
+  date_end = ""
   description = ""
 
 +++

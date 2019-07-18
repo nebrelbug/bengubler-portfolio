@@ -60,4 +60,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Paid freelance article-writer for software company LogRocket’s blog. Wrote about AI framework TensorFlow.js"""
 
+[[experience]]
+  title = "Lawn Mowing Business"
+  company = "Ben Gubler Lawnmowing"
+  company_url = ""
+  location = "Utah"
+  date_start = "2015-06-01"
+  date_end = "2017-08-31"
+  description = """Paid freelance article-writer for software company LogRocket’s blog. Wrote about AI framework TensorFlow.js"""
+
 +++
