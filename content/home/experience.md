@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Co-Teacher, 3-Week Computer Programming Class"
+  company = "Maeser"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Utah"
+  date_start = "2019-01-01"
+  date_end = "2019-01-21"
   description = """
-  Responsibilities include:
+  Taught high-schoolers how to:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Use Git and GitHub
+  * Build websites using HTML, CSS, and JS
+  * Use UI Frameworks like Semantic-UI
+  * Deploy websites using GitHub Pages
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Ecuador Humanitarian Service"
+  company = "Maeser"
   company_url = ""
-  location = "California"
+  location = "Ecuador"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Traveled with a group of Maeser students, for 3 weeks service in orphanages in Ecuador"""
+
+[[experience]]
+  title = "Volunteer Youth Leader"
+  company = "All-Stars Camp"
+  company_url = ""
+  location = "Utah"
+  date_start = "2017-06-14"
+  date_end = "2019-06-21"
+  description = """Volunteer youth leader at week-long high-adventure camp in the summers of 2017 and 2019"""
+
+[[experience]]
+  title = "Technology Writer"
+  company = "LogRocket Blog"
+  company_url = "https://blog.logrocket.com/"
+  location = ""
+  date_start = "2019-04-24"
+  date_end = ""
+  description = """Paid freelance article-writer for software company LogRocket’s blog. Wrote about AI framework TensorFlow.js"""
 
 +++

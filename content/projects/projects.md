@@ -1,16 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "newportfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "Projects"
-subtitle = "[See all](/projects)"
+title = "Portfolio"
+subtitle = "Cool Projects"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "projects"
+  page_type = "project"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -68,7 +68,7 @@ subtitle = "[See all](/projects)"
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "div.container div.row div.col-xs-12 { display:none;}"
  
  # CSS class.
  css_class = ""

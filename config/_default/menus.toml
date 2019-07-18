@@ -9,24 +9,42 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Skills"
+  url = "#skills"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Experience"
+  url = "#experience"
   weight = 40
+
+[[main]]
+  name = "Blog"
+  url = "#blog"
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+
+# [[main_right]]
+#   name = "<i class=\"fab fa-github-alt\" style=\"color: #333; font-size: 1rem; line-height: 1.25\"></i>"
+#   post = ""
+#   url = "https://github.com/nebrelbug/"
+#   weight = 10
+
+[[main_right]]
+  name = "Pay Me"
+  post = ""
+  url = "https://www.paypal.me/bengubler"
+  weight = 10
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
